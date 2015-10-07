@@ -15,7 +15,7 @@ public class Application {
 
 	//Definició del mètode main
 	public static void main(String[] args) {
-		out.println("Hello World from Java!");
+		out.println("Bonjour monde!!");
 	
 	}
 }
